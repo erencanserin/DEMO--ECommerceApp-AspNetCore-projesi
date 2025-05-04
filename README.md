@@ -1,1 +1,1 @@
-# Shopiva-E-ticaret-projesi
+E-ticaret-projesi
